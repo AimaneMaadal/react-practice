@@ -1,5 +1,5 @@
 # react-practise
-This repo is to showcase ly exersice working with react following the course of Jonas Schmedtmann
+This repo is intended to show how to work with react according to Jonas Schmedtmann's course.
 | Experiment | Link  | 
 | :---:   | :---: |
-| Pizza | (https://react-practise-pizza.vercel.app/)https://react-practise-pizza.vercel.app/   | 283   |
+| Pizza | (https://react-practise-pizza.vercel.app/)https://react-practise-pizza.vercel.app/   |
